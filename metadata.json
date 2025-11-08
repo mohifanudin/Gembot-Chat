@@ -1,0 +1,5 @@
+{
+  "name": "Gembot",
+  "description": "A mini chatbot application powered by the Gemini API, allowing users to have interactive conversations with a powerful AI model in a sleek and responsive interface.",
+  "requestFramePermissions": []
+}
